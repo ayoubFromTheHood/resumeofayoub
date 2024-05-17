@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1856.6 1239.4" style="enable-background:new 0 0 1856.6 1239.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF7714;}
+	.st1{clip-path:url(#SVGID_00000070824616099774075970000015332173469996796313_);}
+	
+		.st2{opacity:0.3;clip-path:url(#SVGID_00000093861808348690445570000003355017741699909787_);fill:#FFFFFF;enable-background:new    ;}
+	.st3{clip-path:url(#SVGID_00000093861808348690445570000003355017741699909787_);fill:none;}
+</style>
+<circle class="st0" cx="814.9" cy="498.5" r="324"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M1138.9,498.2c0.2,177.6-146.2,324.1-323.7,324.3c-179.5,0.2-327-149.6-324.3-329
+			c2.7-177,150.7-321.3,328.2-319C995,176.7,1138.7,322.3,1138.9,498.2z"/>
+	</defs>
+	<clipPath id="SVGID_00000150817189161635669630000013353242846908175268_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000150817189161635669630000013353242846908175268_);">
+		<defs>
+			<rect id="SVGID_00000132779514864243121590000010371329776875464351_" x="178.4" y="6" width="937" height="1233.4"/>
+		</defs>
+		<clipPath id="SVGID_00000102518747169901528410000000552673725955483573_">
+			<use xlink:href="#SVGID_00000132779514864243121590000010371329776875464351_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<path style="opacity:0.3;clip-path:url(#SVGID_00000102518747169901528410000000552673725955483573_);fill:#FFFFFF;enable-background:new    ;" d="
+			M521.4,499.6c61.1-48,113.7-82.8,151.3-106c60.3-37.3,107.2-60.8,105.6-92.8c-1.5-28.7-40.9-44-35.4-73.1
+			c2.7-14.4,14.7-23,24.5-30.1c52.1-37.6,126.4-15.3,144-10c15.6,4.7,39.1,13.5,65,31c21,15.3,42,30.7,63,46
+			c28.6,30,58.3,68.1,47,91c-12.8,26-70.9,16.5-117.5,16.4c-156.4-0.1-209.5,140.2-393.5,174.8c-20.5,3.8-72.3,13.2-80-3.2
+			C490.1,532.3,507.6,512.8,521.4,499.6L521.4,499.6z"/>
+		
+			<rect x="146.4" y="105" style="clip-path:url(#SVGID_00000102518747169901528410000000552673725955483573_);fill:none;" width="1001" height="1134.4"/>
+	</g>
+</g>
+</svg>
