@@ -1,6 +1,6 @@
 {
-  "homepage":"http://ayoubFromTheHood.github.io/resumeofayoub",
-  "name": "resume-site",
+  "homepage":".",
+  "name": "resumeofayoub",
   "private": true,
   "version": "0.0.0",
   "type": "module",
